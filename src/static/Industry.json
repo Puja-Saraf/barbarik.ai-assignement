@@ -1,0 +1,12 @@
+[
+    { "industry": "Manufacturing" },
+    { "industry": "Service" },
+    { "industry": "Natural Resource" },
+    { "industry": "Construction" },
+    { "industry": "Energy" },
+    { "industry": "Entertainment and Media" },
+    { "industry": "Telecommunications" },
+    { "industry": "Retail" },
+    { "industry": "Pharmaceutical" },
+    { "industry": "Environmental" }
+]

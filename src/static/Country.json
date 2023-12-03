@@ -1,0 +1,98 @@
+[
+  {
+    "country": "India",
+    "states": ["Maharashtra", "Telangana"],
+    "currencies": ["Rupee"],
+    "timezones": ["Indian Standard Time (IST)"],
+    "languages": ["Hindi", "English"]
+  },
+  {
+    "country": "Switzerland",
+    "states": ["Zurich", "Geneva", "Bern"],
+    "currencies": ["Swiss Franc", "Euro"],
+    "timezones": ["Central European Time (CET)"],
+    "languages": ["German", "French", "Italian"]
+  },
+  {
+    "country": "United Arab Emirates",
+    "states": ["Dubai", "Abu Dhabi", "Sharjah"],
+    "currencies": ["UAE Dirham", "US Dollar"],
+    "timezones": ["Gulf Standard Time (GST)"],
+    "languages": ["Arabic", "English"]
+  },
+  {
+    "country": "United States",
+    "states": ["California", "New York", "Texas"],
+    "currencies": ["US Dollar"],
+    "timezones": [
+      "Pacific Time (PT)",
+      "Eastern Time (ET)",
+      "Central Time (CT)"
+    ],
+    "languages": ["English"]
+  },
+  {
+    "country": "United Kingdom",
+    "states": ["England", "Scotland", "Wales", "Northern Ireland"],
+    "currencies": ["Pound Sterling"],
+    "timezones": ["Greenwich Mean Time (GMT)"],
+    "languages": ["English"]
+  },
+  {
+    "country": "Australia",
+    "states": ["New South Wales", "Victoria", "Queensland"],
+    "currencies": ["Australian Dollar"],
+    "timezones": ["Australian Eastern Standard Time (AEST)"],
+    "languages": ["English"]
+  },
+  {
+    "country": "Canada",
+    "states": ["Ontario", "Quebec", "British Columbia"],
+    "currencies": ["Canadian Dollar"],
+    "timezones": [
+      "Eastern Time (ET)",
+      "Eastern Time (ET)",
+      "Pacific Time (PT)"
+    ],
+    "languages": ["English", "French"]
+  },
+  {
+    "country": "Germany",
+    "states": ["Bavaria", "Berlin", "Hamburg"],
+    "currencies": ["Euro"],
+    "timezones": ["Central European Time (CET)"],
+    "languages": ["German"]
+  },
+  {
+    "country": "Japan",
+    "states": ["Tokyo", "Osaka", "Hokkaido"],
+    "currencies": ["Yen"],
+    "timezones": ["Japan Standard Time (JST)"],
+    "languages": ["Japanese"]
+  },
+  {
+    "country": "Brazil",
+    "states": ["Sao Paulo", "Rio de Janeiro", "Minas Gerais"],
+    "currencies": ["Brazilian Real"],
+    "timezones": ["Brasília Time (BRT)"],
+    "languages": ["Portuguese"]
+  },
+  {
+    "country": "South Africa",
+    "states": ["Gauteng", "Western Cape", "KwaZulu-Natal"],
+    "currencies": ["South African Rand"],
+    "timezones": ["South Africa Standard Time (SAST)"],
+    "languages": ["Zulu", "Xhosa", "Afrikaans", "English"]
+  },
+  {
+    "country": "France",
+    "states": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur",
+      "Auvergne-Rhône-Alpes"
+    ],
+    "currencies": ["Euro"],
+    "timezones": ["Central European Time (CET)"],
+    "languages": ["French"]
+  }
+]
